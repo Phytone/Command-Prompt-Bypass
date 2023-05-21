@@ -1,4 +1,4 @@
-# Command-Prompy-Bypass
+# Command-Prompt-Bypass
 
 Bypasses the Command Promt has been disabled by your administrator message on Windows
 
